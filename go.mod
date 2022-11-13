@@ -1,4 +1,4 @@
-module my-app
+module revelProject
 
 go 1.19
 
