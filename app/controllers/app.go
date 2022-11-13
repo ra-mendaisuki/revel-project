@@ -15,3 +15,7 @@ func (c App) Index() revel.Result {
 func (c App) Show() revel.Result {
 	return c.Render()
 }
+
+func (c App) Form() revel.Result {
+	return c.Render()
+}
